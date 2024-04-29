@@ -1,0 +1,13 @@
+export enum EventName {
+    DANGER_FRUIT_PUT,
+    FRUIT_PUT,
+    FRUIT_FALLED,
+    TEXT_PUT,
+
+    GAME_OVER,
+
+    LIFE_CHANGED,
+    SCORE_CHANGED,
+    TIME_CHANGED,
+    TIME_OFF,
+}
